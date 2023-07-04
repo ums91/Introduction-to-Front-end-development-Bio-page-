@@ -3,5 +3,5 @@ This is the Lab assessment of the coursera "Introduction to Front end Developmen
 <br>
 <br>
 Important Notice: This Repository and its Contents are for Educational Purposes Only
-Please note that the materials contained in this repository are part of a peer-graded assignment for a Coursera course. They are intended solely for educational purposes and should not be used for any other purpose.
+Please note that the materials contained in this repository are part of final lab assignment for a Coursera course. They are intended solely for educational purposes and should not be used for any other purpose.
 If you have any questions or concerns regarding the content, please contact the repository owner.
